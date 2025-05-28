@@ -1,3 +1,5 @@
+//Autores: Arthur Machado e Thiago de Nardi
+
 #include <iostream>     
 #include <cstdlib>      // funções rand e srand
 #include <ctime>        // para obter o tempo atual (usado na semente do rand)
